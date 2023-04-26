@@ -1,6 +1,6 @@
 #line 2 "wyscanner.c"
 
-#line 4 "wyscanner.c"
+#line 4 "wyscanner.c" 
 
 #define  YY_INT_ALIGNED short int
 
